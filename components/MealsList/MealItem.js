@@ -7,7 +7,7 @@ import {
   Platform,
 } from "react-native";
 import { useNavigation } from '@react-navigation/native'
-import MealDetailsComp from "./MealDetailsComp";
+import MealDetailsComp from "../MealDetailsComp";
 
 function MealItem({
   id,
